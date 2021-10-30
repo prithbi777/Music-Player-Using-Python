@@ -1,2 +1,2 @@
 # Prithy_MusicPlayer-
-This is a simple very simple music player.....hope you guys like it.....Thank You All!
+This is a very simple music player been created in an unique way.....hope you guys like it.....Thank You All!
